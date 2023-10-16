@@ -6,7 +6,7 @@ namespace github_test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Charge the sandtown in foxhole during big break !!!!");
         }
     }
 }
